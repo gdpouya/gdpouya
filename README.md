@@ -10,10 +10,8 @@
 - 📫 How to reach me **gdpouya@gmail.com**
 
 
-<img
-  src="https://github.com/gdpouya/gdpouya/blob/main/images/stat.svg"
-  alt="Pouya Activity"
-/>
+<figure><embed src="https://wakatime.com/share/@gdpouya/731486c9-939a-48d9-9421-28f9c608867b.svg"></embed></figure>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gd_pouya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gd_pouya" height="30" width="40" /></a>
