@@ -10,7 +10,7 @@
 - 📫 How to reach me **gdpouya@gmail.com**
 
 
-<figure><embed src="https://wakatime.com/share/@gdpouya/731486c9-939a-48d9-9421-28f9c608867b.svg"></embed></figure>
+<img src="https://wakatime.com/share/@gdpouya/731486c9-939a-48d9-9421-28f9c608867b.svg"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
